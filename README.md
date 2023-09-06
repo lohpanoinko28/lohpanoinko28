@@ -2,7 +2,7 @@
 
 - 👋 Oi, meu nome é @lohpanoinko28
 - 👀 Estou interessada em aprender mais sobre programação
-- 🌱 atualmente estou estudando no primeiro ano do ensino médio
+- 🌱 atualmente estou estudando no segundo ano do ensino médio
 - 💞️ Eu adoro ler livros 
 - 📫 meu email é lorena.panoinko.santos@escola.pr.gov.br
 
