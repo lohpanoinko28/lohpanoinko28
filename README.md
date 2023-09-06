@@ -1,12 +1,13 @@
-# Sobre mim 
+### Boas vindas ao meu perfil 💙
 
-- 👋 Oi, meu nome é @lohpanoinko28
-- 👀 Estou interessada em aprender mais sobre programação
-- 🌱 atualmente estou estudando no segundo ano do ensino médio
-- 💞️ Eu adoro ler livros 
-- 📫 meu email é lorena.panoinko.santos@escola.pr.gov.br
+Meu nome é Lorena Panoinko
 
-<!---
-lohpanoinko28/lohpanoinko28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+- ### Você pode entrar em contato comigo :mailbox
+
+lorena.panoinko.santos@escola.pr.gov.br
+@lorenapanoinko
+![descrição do GIF](https://media.tenor.com/sK2sewEblTwAAAAC/snoopy-peanuts.gif)
